@@ -1,85 +1,258 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://conorfleming.github.io/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/ducted-turbines/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/ducted-turbines/</loc>
+      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/uk-tunnels-forum/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/throttling-effect/</loc>
+      <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/throttling-effect/</loc>
-    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/phd-thesis/</loc>
+      <lastmod>2014-04-30T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/ewtec-2013/</loc>
+      <lastmod>2013-09-05T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/phd-thesis/</loc>
-    <lastmod>2014-04-30T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/ewtec-2011/</loc>
+      <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/ewtec-2013/</loc>
-    <lastmod>2013-09-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/perawat/</loc>
+      <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/publication/ewtec-2011/</loc>
-    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication_types/1/</loc>
+      <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/project/perawat/</loc>
-    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication_types/2/</loc>
+      <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/project/central-70/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication_types/5/</loc>
+      <lastmod>2014-04-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/project/m25-pi/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication_types/6/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/project/doha-rls/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/atkins/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/project/silvertown/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/central-70/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication/uk-tunnels-forum/</loc>
+    </url>
+    
   
-  <url>
-    <loc>https://conorfleming.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/inspections/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/metro-station-ventilation-design/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/metro-system/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/m25-pi/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/</loc>
+      <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/publication_types/</loc>
+      <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/doha-rls/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/road-tunnel/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/project/silvertown/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/tidal-energy/</loc>
+      <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://conorfleming.github.io/tags/tunnel-ventilation-system-design/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

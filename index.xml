@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conor Fleming</title>
-    <link>https://conorfleming.github.io/index.xml</link>
-    <description>Recent content on Conor Fleming</description>
+    <title>Conor Fleming on Conor Fleming</title>
+    <link>https://conorfleming.github.io/</link>
+    <description>Recent content in Conor Fleming on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Conor Fleming</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Conor Fleming</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Analysis of bi-directional ducted tidal turbine performance</title>
@@ -16,15 +16,6 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://conorfleming.github.io/publication/ducted-turbines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design for tunnel safety - tunnel ventilation systems</title>
-      <link>https://conorfleming.github.io/publication/uk-tunnels-forum/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://conorfleming.github.io/publication/uk-tunnels-forum/</guid>
       <description></description>
     </item>
     
@@ -74,7 +65,7 @@
 
 &lt;h2 id=&#34;project-website&#34;&gt;Project website:&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.eti.co.uk/programmes/marine/perawat&#34;&gt;http://www.eti.co.uk/programmes/marine/perawat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.eti.co.uk/programmes/marine/perawat&#34; target=&#34;_blank&#34;&gt;http://www.eti.co.uk/programmes/marine/perawat&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;university-of-oxford-technical-reports&#34;&gt;University of Oxford technical reports:&lt;/h2&gt;
 
@@ -102,6 +93,15 @@ ducted horizontal­axis axial flow turbines&lt;/a&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://conorfleming.github.io/project/central-70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design for tunnel safety - tunnel ventilation systems</title>
+      <link>https://conorfleming.github.io/publication/uk-tunnels-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://conorfleming.github.io/publication/uk-tunnels-forum/</guid>
       <description></description>
     </item>
     
