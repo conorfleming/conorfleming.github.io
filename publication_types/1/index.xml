@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Conor Fleming</title>
-    <link>https://conorfleming.github.io/publication_types/1/</link>
+    <link>http://www.conorfleming.com/publication_types/1/</link>
     <description>Recent content in 1 on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>The treatment of the throttling effect in incompressible 1D flow solvers</title>
-      <link>https://conorfleming.github.io/publication/throttling-effect/</link>
+      <link>http://www.conorfleming.com/publication/throttling-effect/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://conorfleming.github.io/publication/throttling-effect/</guid>
+      <guid>http://www.conorfleming.com/publication/throttling-effect/</guid>
       <description></description>
     </item>
     
