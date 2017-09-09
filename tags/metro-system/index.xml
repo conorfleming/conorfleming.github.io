@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metro System on Conor Fleming</title>
-    <link>https://www.conorfleming.com/tags/metro-system/</link>
+    <link>http://www.conorfleming.com/tags/metro-system/</link>
     <description>Recent content in Metro System on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Red Line South, Doha Metro</title>
-      <link>https://www.conorfleming.com/project/doha-rls/</link>
+      <link>http://www.conorfleming.com/project/doha-rls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.conorfleming.com/project/doha-rls/</guid>
+      <guid>http://www.conorfleming.com/project/doha-rls/</guid>
       <description></description>
     </item>
     

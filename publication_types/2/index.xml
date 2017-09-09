@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Conor Fleming</title>
-    <link>https://www.conorfleming.com/publication_types/2/</link>
+    <link>http://www.conorfleming.com/publication_types/2/</link>
     <description>Recent content in 2 on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Analysis of bi-directional ducted tidal turbine performance</title>
-      <link>https://www.conorfleming.com/publication/ducted-turbines/</link>
+      <link>http://www.conorfleming.com/publication/ducted-turbines/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.conorfleming.com/publication/ducted-turbines/</guid>
+      <guid>http://www.conorfleming.com/publication/ducted-turbines/</guid>
       <description></description>
     </item>
     
