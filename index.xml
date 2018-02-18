@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conor Fleming</title>
+    <link>http://www.conorfleming.com/</link>
+    <description>Recent content on Conor Fleming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.conorfleming.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.conorfleming.com/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://www.conorfleming.com/about/</guid>
+      <description>I am a tunnel ventilation engineer with a research background in fluid mechanics. As a doctoral researcher at the University of Oxford, I modelled the effects of realistic ocean conditions on tidal energy devices. I subsequently joined Atkins where I was involved in several major tunnel ventilation projects in the UK, USA and Middle East. I have been a member of the SNC-Lavalin tunnel ventilation team since early 2017, and have been working on the ongoing Eglinton Crosstown LRT and Confederation Line LRT as well as smaller consulting projects.</description>
+    </item>
+    
+    <item>
+      <title>Publications &amp; Talks</title>
+      <link>http://www.conorfleming.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.conorfleming.com/publications/</guid>
+      <description>Publications  M Duckham, K Brown and C F Fleming (2017) &amp;lsquo;Integration of tunnel ventilation and train control systems&amp;rsquo;, in Proc. 17th Int. Symp. on Aerodynamics, Ventilation &amp;amp; Fire in Tunnels, Lyon, France Y S Shi, C F Fleming, C Sejekan, E Wong, M Samimi and M Duckham (2017) &amp;lsquo;Automated coupling of standard one-dimensional and three-dimensional flow solvers for simulation of metro ventilation systems&amp;rsquo;, in Proc. 17th Int. Symp. on Aerodynamics, Ventilation &amp;amp; Fire in Tunnels, Lyon, France C F Fleming, G T Clark, K R Meeks and T Wicht (2016) &amp;lsquo;The treatment of the throttling effect in incompressible 1D flow solvers&amp;rsquo; in Proc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Conor Fleming</title>
+    <link>http://www.conorfleming.com/tags/publications/</link>
+    <description>Recent content in Publications on Conor Fleming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://www.conorfleming.com/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications &amp; Talks</title>
+      <link>http://www.conorfleming.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.conorfleming.com/publications/</guid>
+      <description>Publications  M Duckham, K Brown and C F Fleming (2017) &amp;lsquo;Integration of tunnel ventilation and train control systems&amp;rsquo;, in Proc. 17th Int. Symp. on Aerodynamics, Ventilation &amp;amp; Fire in Tunnels, Lyon, France Y S Shi, C F Fleming, C Sejekan, E Wong, M Samimi and M Duckham (2017) &amp;lsquo;Automated coupling of standard one-dimensional and three-dimensional flow solvers for simulation of metro ventilation systems&amp;rsquo;, in Proc. 17th Int. Symp. on Aerodynamics, Ventilation &amp;amp; Fire in Tunnels, Lyon, France C F Fleming, G T Clark, K R Meeks and T Wicht (2016) &amp;lsquo;The treatment of the throttling effect in incompressible 1D flow solvers&amp;rsquo; in Proc.</description>
+    </item>
+    
+  </channel>
+</rss>
