@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Conor Fleming</title>
-    <link>http://www.conorfleming.com/tags/about/</link>
+    <link>https://www.conorfleming.com/tags/about/</link>
     <description>Recent content in About on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://www.conorfleming.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.conorfleming.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.conorfleming.com/about/</link>
+      <link>https://www.conorfleming.com/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://www.conorfleming.com/about/</guid>
+      <guid>https://www.conorfleming.com/about/</guid>
       <description>I am a tunnel ventilation engineer with a research background in fluid mechanics. As a doctoral researcher at the University of Oxford, I modelled the effects of realistic ocean conditions on tidal energy devices. I subsequently joined Atkins where I was involved in several major tunnel ventilation projects in the UK, USA and Middle East. I have been a member of the SNC-Lavalin tunnel ventilation team since early 2017, and have been working on the ongoing Eglinton Crosstown LRT and Confederation Line LRT as well as smaller consulting projects.</description>
     </item>
     

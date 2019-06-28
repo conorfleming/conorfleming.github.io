@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conor Fleming</title>
-    <link>http://www.conorfleming.com/</link>
+    <link>https://www.conorfleming.com/</link>
     <description>Recent content on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="http://www.conorfleming.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.conorfleming.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.conorfleming.com/about/</link>
+      <link>https://www.conorfleming.com/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>http://www.conorfleming.com/about/</guid>
+      <guid>https://www.conorfleming.com/about/</guid>
       <description>I am a tunnel ventilation engineer with a research background in fluid mechanics. As a doctoral researcher at the University of Oxford, I modelled the effects of realistic ocean conditions on tidal energy devices. I subsequently joined Atkins where I was involved in several major tunnel ventilation projects in the UK, USA and Middle East. I have been a member of the SNC-Lavalin tunnel ventilation team since early 2017, and have been working on the ongoing Eglinton Crosstown LRT and Confederation Line LRT as well as smaller consulting projects.</description>
     </item>
     
     <item>
       <title>Publications &amp; Talks</title>
-      <link>http://www.conorfleming.com/publications/</link>
+      <link>https://www.conorfleming.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.conorfleming.com/publications/</guid>
+      <guid>https://www.conorfleming.com/publications/</guid>
       <description>Publications  C F Fleming, N Rhodes and J Van (2019) &amp;lsquo;Development of an injection nozzle retrofit to disrupt the Coanda effect&amp;rsquo; in Proc. 18th Int. Symp. on Aerodynamics, Ventilation &amp;amp; Fire in Tunnels, Athens, Greece PIARC Technical Committee D5 (2019) &amp;lsquo;Road Tunnels: Vehicle Emissions and Air Demand for Ventilation&amp;rsquo;, World Road Association, ISBN 978-2-84060-500-3 C Fleming and N Rhodes (2018) &amp;lsquo;A Validation of the Fire Dynamics Simulator for Smoke Dispersion from Metro Stations&amp;rsquo;, in Proc.</description>
     </item>
     
