@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Conor Fleming</title>
+    <title>about on Conor Fleming</title>
     <link>https://www.conorfleming.com/categories/about/</link>
-    <description>Recent content in About on Conor Fleming</description>
+    <description>Recent content in about on Conor Fleming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>https://www.conorfleming.com/about/</guid>
-      <description>I am a tunnel ventilation engineer with a research background in fluid mechanics. As a doctoral researcher at the University of Oxford, I modelled the effects of realistic ocean conditions on tidal energy devices. I subsequently joined Atkins where I was involved in several major tunnel ventilation projects in the UK, USA and Middle East. I have been a member of the SNC-Lavalin tunnel ventilation team since early 2017, and have been working on the ongoing Eglinton Crosstown LRT and Confederation Line LRT as well as smaller consulting projects.</description>
+      <description>As an engineering scientist at Coanda, I focus on computational modelling of complex fluid flows to solve immediate industrial challenges. Over the last ten years I have gained a broad range of experience as a mechanical engineer in academic and industrial settings.
+My doctoral research at the University of Oxford examined the performance of tidal stream turbines in highly-turbulent open channel flows via CFD modelling.
+As a tunnel ventilation engineer with Atkins and subsequently SNC-Lavalin, I developed expertise in numerical and physical modelling of heat and mass transport through tunnels and buildings.</description>
     </item>
     
   </channel>
